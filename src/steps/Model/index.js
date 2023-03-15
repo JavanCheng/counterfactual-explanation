@@ -12,7 +12,7 @@ const Model = () => {
             <div>
                 请选择认知追踪模型：
                 <Select
-                    defaultValue="ASSIST09"
+                    defaultValue="DKT"
                     style={{
                         width: 300,
                     }}
